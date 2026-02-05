@@ -1,0 +1,1 @@
+import EmployeeTable from './pages/EmployeeTable'; export default function App(){return <EmployeeTable/>;}
