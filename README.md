@@ -7,7 +7,6 @@ The project demonstrates understanding of the payroll domain, SaaS architecture,
 The application is designed to be a **Software-as-a-Service (SaaS)** platform where payroll operations are centrally managed and accessed by multiple organizations.
 
 ---
-
 ## SaaS Concept
 In a SaaS model, the application is hosted centrally and delivered over the internet.  
 Users can securely access payroll features without installing or maintaining local software, enabling scalability, centralized updates, and multi-tenant access.
